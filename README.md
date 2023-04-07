@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.imgur.com/FKMACgP.gif" width="400" height="300"/>
-  <h1>Hi there! I'm Ciomeczek! 🐹🌟</h1>
+  <h1>Hi there! I'm Ciomek! 🐹🌟</h1>
   <h3>A Kawaii Developer</h3>
 </div>
 
